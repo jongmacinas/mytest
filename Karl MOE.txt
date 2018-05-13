@@ -1,0 +1,104 @@
+Receipt
+Please print a copy of this receipt for future reference.
+Bill Reference No. : 	G5995605T
+Student Name : 	Macinas Cabuang Karl Angelo
+Payment Amount (S$) : 	570.00
+Payment Mode : 	eNETS Debit
+EP Reference No : 	JNX20160927153331515
+Transaction No : 	BILL1602029636
+Transaction Date/Time : 	27/09/2016 15:33:31
+
+
+
+
+Receipt
+Please print a copy of this receipt for future reference.
+Bill Reference No. : 	G5995605T
+Student Name : 	Macinas Cabuang Karl Angelo
+Payment Amount (S$) : 	570.00
+Payment Mode : 	eNETS Debit
+EP Reference No : 	JNX20161021042121740
+Transaction No : 	BILL1602047099
+Transaction Date/Time : 	21/10/2016 4:21:22
+This is a computer generated receipt. No signature is required.
+
+
+
+
+Receipt
+Please print a copy of this receipt for future reference.
+Bill Reference No. : 	G5995605T
+Student Name : 	Macinas Cabuang Karl Angelo
+Payment Amount (S$) : 	570.00
+Payment Mode : 	eNETS Debit
+EP Reference No : 	JNX20161121225016945
+Transaction No : 	BILL1602071495
+Transaction Date/Time : 	21/11/2016 22:50:20
+This is a computer generated receipt. No signature is required.
+
+
+Receipt
+Please print a copy of this receipt for future reference.
+Bill Reference No. : 	G5995605T
+Student Name : 	Macinas Cabuang Karl Angelo
+Payment Amount (S$) : 	570.00
+Payment Mode : 	eNETS Debit
+EP Reference No : 	JNX20161226144720170
+Transaction No : 	BILL1602092202
+Transaction Date/Time : 	26/12/2016 14:47:21
+
+
+
+
+Receipt
+Please print a copy of this receipt for future reference.
+Bill Reference No. : 	G5995605T
+Student Name : 	Macinas Cabuang Karl Angelo
+Payment Amount (S$) : 	1970.00
+Payment Mode : 	eNETS Debit
+EP Reference No : 	JNX20170112172009754
+Transaction No : 	BILL1702101554
+Transaction Date/Time : 	12/01/2017 17:20:10
+
+
+
+
+Receipt
+Please print a copy of this receipt for future reference.
+Bill Reference No. : 	G5995605T
+Student Name : 	Macinas Cabuang Karl Angelo
+Payment Amount (S$) : 	600.00
+Payment Mode : 	eNETS Debit
+EP Reference No : 	JNX20170215014838035
+Transaction No : 	BILL1702115793
+Transaction Date/Time : 	15/02/2017 1:48:38
+
+
+Bill Reference No. : 	G5995605T
+Student Name : 	Macinas Cabuang Karl Angelo
+Payment Amount (S$) : 	800.00
+Payment Mode : 	eNETS Debit
+EP Reference No : 	JNX20170221120159148
+Transaction No : 	BILL1702120163
+Transaction Date/Time : 	21/02/2017 12:02:00
+
+
+Receipt
+Please print a copy of this receipt for future reference.
+Bill Reference No. : 	G5995605T
+Student Name : 	Macinas Cabuang Karl Angelo
+Payment Amount (S$) : 	620.00
+Payment Mode : 	eNETS Debit
+EP Reference No : 	JNX20170322190651995
+Transaction No : 	BILL1702134042
+Transaction Date/Time : 	22/03/2017 19:06:52
+
+
+26 june 2017
+620sgd
+
+24 july 2017
+700sgd
+
+
+
